@@ -31,28 +31,27 @@ Figma • Canva • CapCut
 
 ### 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ebossro&show_icons=true&theme=radical&hide_border=true&border_radius=10)
-![Langages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ebossro&layout=compact&theme=radical&hide_border=true&border_radius=10)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ebossro&show_icons=true&theme=highcontrast&hide_border=true&border_radius=10)
+![Langages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ebossro&layout=compact&theme=highcontrast&hide_border=true&border_radius=10&locale=fr)
 
 ---
 
 ### 🌐 Me retrouver ailleurs
 💼 [LinkedIn](https://www.linkedin.com/in/emmanuelbossro)  
-📸 [Instagram](https://www.facebook.com/profile.php?id=100093232854612)  
+📸 [Facebook](https://www.facebook.com/profile.php?id=100093232854612)  
 🎥 [YouTube](https://www.youtube.com/@ebossro)  
 
 ---
 
 ### ⚙️ Projets phares
- **E-Learn Git & GitHub** — Plateforme e-learning interactive sans backend  
- **Workflow n8n** — Génération automatique de posts LinkedIn avec IA  
+ **E-Learn Git & GitHub** — Plateforme e-learning interactive sans backend    
  **Odoo E-learning** — Solution de formation digitale en ligne  
  **Portfolio Web React** — Présentation de mes projets et compétences (En cours de développement)  
 
 ---
 
 ### 🏆 Badges & Activité
-![GitHub followers](https://img.shields.io/github/followers/ebossro?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ebossro?style=social&locale=fr)
 ![GitHub stars](https://img.shields.io/github/stars/ebossro?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=ebossro&label=Vues%20du%20profil&color=blue&style=flat)
 
