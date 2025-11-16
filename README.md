@@ -26,6 +26,7 @@ WordPress • Odoo • Moodle • Dolibarr
 
 **Design & Création :**  
 Figma • Canva • CapCut
+
 ---
 
 ### 📊 Statistiques GitHub
