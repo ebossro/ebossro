@@ -16,7 +16,7 @@
 ### 🛠️ Compétences techniques
 
 **Langages :**  
-HTML • CSS • JavaScript • PHP • Python
+HTML • CSS • JavaScript • PHP • Python • C++ • C
 
 **Frameworks & Outils :**  
 Laravel • React • TailwindCSS • Bootstrap • Git • GitHub • VS Code  
